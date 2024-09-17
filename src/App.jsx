@@ -1,7 +1,10 @@
+import Holamundo from "./componentes/Holamundo";
 
 
 function App() {
-  return <></>;
+  return <>
+  <Holamundo></Holamundo>
+  </>;
 }
 
 export default App;
